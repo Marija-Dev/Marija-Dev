@@ -1,7 +1,7 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=Hey%20what%C2%B4s%20up?&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=86&descAlignY=89&textBg=false&color=gradient"  />
 </div>
-
+My name is Marija and I´m a frontend developer from Austria
 ###
 I code width
 
